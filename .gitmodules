@@ -4,3 +4,6 @@
 [submodule "PyGame"]
 	path = PyGame
 	url = https://github.com/WasikAhmed/PyGame.git
+[submodule "FlaskIntroduction"]
+	path = FlaskIntroduction
+	url = https://github.com/WasikAhmed/FlaskIntroduction.git
