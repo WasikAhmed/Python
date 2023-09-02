@@ -1,3 +1,6 @@
 [submodule "Learning-Python"]
 	path = Learning-Python
 	url = https://github.com/WasikAhmed/Learning-Python.git
+[submodule "PyGame"]
+	path = PyGame
+	url = https://github.com/WasikAhmed/PyGame.git
