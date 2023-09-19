@@ -7,3 +7,9 @@
 [submodule "FlaskIntroduction"]
 	path = FlaskIntroduction
 	url = https://github.com/WasikAhmed/FlaskIntroduction.git
+[submodule "DataStructures-python"]
+	path = DataStructures-python
+	url = git@github.com:WasikAhmed/DataStructures-python.git
+[submodule "dataScience-and-ML"]
+	path = dataScience-and-ML
+	url = git@github.com:WasikAhmed/dataScience-and-ML.git
